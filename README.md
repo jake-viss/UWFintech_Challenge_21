@@ -18,17 +18,21 @@ Add the code, compile the code, and deploy the contract using the Remix IDE. The
 [REMIX IDE](https://remix.ethereum.org/)  
 
 ## Evaluation Evidence
-1. Compiled KasaiCoin Contract
+1. Deployed contract functionality  
+[HERE](https://www.loom.com/share/81f6c9fa15e14e5b99fa6fcaea9ed59c) is a short video showing the crowdsale deployment, purchasing tokens, and verifying the transactions within Ganache & Metamask. Note the video failed to show the receipt of tokens in the test accounts Metamask so there are two screenshots below highlighting their token balances.
+
+2. Compiled KasaiCoin Contract
 ![kaicontract](EvaluationEvidence/1.CreateKasaiCoinContract.png)
 
-2. Compiled KasaiCoinCrowdsale Contract
+3. Compiled KasaiCoinCrowdsale Contract
 ![kaicrowdsalecontract](EvaluationEvidence/2.KaseiCoinCrowdsale.png)
 
-3. Compiled KasaiCoinDeployer Contract
+4. Compiled KasaiCoinDeployer Contract
 ![kaideployer](EvaluationEvidence/3.KaseiCoinDeployer.png)
 
-4. Deployed contract functionality
-[HERE](https://www.loom.com/share/81f6c9fa15e14e5b99fa6fcaea9ed59c) is a short video showing the crowdsale deployment, purchasing tokens, and verifying the transactions within Ganache & Metamask.
+5. Screenshots showing the receipt of KAI in Metamask.
+![Account2bal](EvaluationEvidence/Account2KAIbalance.png)
+![Account3bal](EvaluationEvidence/Account3KAIbalance.png)
 
 
 ## Contributors
